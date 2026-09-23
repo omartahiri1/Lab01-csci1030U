@@ -6,7 +6,7 @@ to practise the git workflow in Lab 01.
 - **Name:** Omar Tahiri
 - **Program:**  Computer science 
 - **My GitHub username:** omartahiri1
-
+- **Goal:** I want to learn how to use GitHub confidently.
 The Lab 01 quiz on Canvas asks the rest (why you're taking the course, how the lab went).
 Answer those in Canvas - this file only needs the three lines above.
 
